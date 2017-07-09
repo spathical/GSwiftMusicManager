@@ -2,7 +2,6 @@
 //  AppDelegate.swift
 //  GSwiftMusicManager
 //
-//  Created by Santhosh Pathical on 7/9/17.
 //  Copyright © 2017 Iam Developer. All rights reserved.
 //
 
